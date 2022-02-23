@@ -1,0 +1,112 @@
+.grid1{
+    height: 33.3%;
+    width: 33.3%;
+    background-color: red;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+
+    z-index: 7;
+}
+
+.grid2{
+    height: 33.3%;
+    width: 33.3%;
+    background-color: orange;
+    position: absolute;
+    left: 33.3%;
+    top: 0%;
+
+    z-index: 7;
+}
+
+.grid3{
+    height: 33.3%;
+    width: 33.3%;
+    background-color: yellow;
+    position: absolute;
+    left: 66.6%;
+    top: 0%;
+
+    z-index: 7;
+}
+
+.grid4{
+    height: 33.3%;
+    width: 33.3%;
+    background-color: green;
+    position: absolute;
+    left: 0%;
+    top: 33.3%;
+
+    z-index: 7;
+}
+
+.grid5{
+    height: 33.3%;
+    width: 33.3%;
+    background-color: blue;
+    position: absolute;
+    left: 33.3%;
+    top: 33.3%;
+
+    z-index: 7;
+}
+
+.grid6{
+    height: 33.3%;
+    width: 33.3%;
+    background-color: indigo;
+    position: absolute;
+    left: 66.6%;
+    top: 33.3%;
+
+    z-index: 7;
+}
+
+.grid7{
+    height: 33.3%;
+    width: 33.3%;
+    background-color: violet;
+    position: absolute;
+    left: 0%;
+    top: 66.6%;
+
+    z-index: 7;
+}
+
+.grid8{
+    height: 33.3%;
+    width: 33.3%;
+    background-color: grey;
+    position: absolute;
+    left: 33.3%;
+    top: 66.6%;
+
+    z-index: 7;
+}
+
+.grid9{
+    height: 33.3%;
+    width: 33.3%;
+    background-color: black;
+    position: absolute;
+    left: 66.6%;
+    top: 66.6%;
+
+    z-index: 7;
+}
+
+.text{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+
+    z-index: 10;
+
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    top: 150px;
+
+}
